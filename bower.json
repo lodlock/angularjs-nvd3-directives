@@ -27,7 +27,7 @@
   "dependencies": {
     "angular": "~1.2.4",
     "d3": "~3.4.1",
-    "nvd3": "~v1.1.15-beta"
+    "nvd3": "https://github.com/rimunroe/nvd3.git#d3_upgrade_amd_support"
   },
   "devDependencies": {
     "moment": "~2.5.0",
